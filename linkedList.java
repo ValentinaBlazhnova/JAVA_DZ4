@@ -23,7 +23,7 @@ public class linkedList {
             System.out.println(i);
         
         // enqueue() - помещает элемент в конец очереди,
-        myList.offer(22);  //offer() вставляет элемент в очередь, если это не удалось - возвращает false.       
+        myList.offer(17);  //offer() вставляет элемент в очередь, если это не удалось - возвращает false.       
         for(int i: myList)
             System.out.println(i);
 
